@@ -16,9 +16,15 @@ This is a dataset collected for a fleet management project. This dataset contain
 -Turning
 -Other Activities
 # Augumentation & Input Model
-1. Augumentation
+1. Augmentation
+
    ![image](https://github.com/user-attachments/assets/8a09af29-543d-4ea9-a594-66422a9d30c4)
-2. Input Model
+
+
+   
+3. Input Model
+
+
    ![image](https://github.com/user-attachments/assets/a1c29d79-c4dc-4afc-a4f6-6db40d15a28e)
 
 
@@ -26,9 +32,9 @@ This is a dataset collected for a fleet management project. This dataset contain
 ![image](https://github.com/user-attachments/assets/f44b36fc-5b35-41fd-9221-a1e7110bd94c)
 
 # Result 
-Before Augumentation
+Before Augmentation
 ![image](https://github.com/user-attachments/assets/8b3f2465-c64a-40b1-beec-e410fae6bb5b)
-After Augumentation
+After Augmentation
 ![image](https://github.com/user-attachments/assets/bccf7605-bb61-4169-b587-1264792399c4)
 
 # About THE loss 
